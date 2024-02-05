@@ -20,7 +20,7 @@ Il s'agit d'un simple jeu Snake implémenté en JS et HTML. Le jeu classique Sna
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/florentbaccard/snake-game.git
+git clone https://github.com/florentbaccard/Snake-Game.git
 cd snake-game
 
 ```
