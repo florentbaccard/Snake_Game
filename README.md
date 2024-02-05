@@ -24,8 +24,6 @@ git clone https://github.com/florentbaccard/Snake-Game.git
 cd Snake-Game
 
 ```
-</br>
-
 ## Captures d'écran
 
 <p align="center">
