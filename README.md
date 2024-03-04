@@ -21,8 +21,6 @@ Il s'agit d'un simple jeu Snake implémenté en JS et HTML. Le jeu classique Sna
 
 ```bash
 git clone https://github.com/florentbaccard/Snake-Game.git
-cd Snake-Game
-
 ```
 ## Captures d'écran
 
